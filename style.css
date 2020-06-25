@@ -96,4 +96,7 @@ ul {
     .profilePic {
         width: 300px;
     }
+     .characterDescription {
+        margin-left: 0;
+    }
 }
