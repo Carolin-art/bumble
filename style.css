@@ -90,7 +90,7 @@ ul {
     h1, h2 {
       font-size: 20px;
   }
-    .card {
+    .card, .profilePic {
         display: block;
     }
 }
