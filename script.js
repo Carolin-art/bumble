@@ -1,5 +1,5 @@
 function question(){
-alert ("Hello Tom, this is a very quick & basic quiz (Please only answer with yes or no, I'm not that skilled haha)");
+alert ("Hello Tom, this is a very quick & basic quiz (Please only answer with 'yes' or 'no', I'm not that skilled haha)");
 var drink = prompt("Do you like beer?");
 if (drink.toUpperCase()==="YES") {
     var beer = prompt("Fantastic! Me too! How about we meet for one, or two..?");
