@@ -90,8 +90,10 @@ ul {
     h1, h2 {
       font-size: 20px;
   }
-    .card, .profilePic {
+    .card {
         display: block;
-        text-align: center;
+    }
+    .profilePic {
+        background-size: cover;
     }
 }
