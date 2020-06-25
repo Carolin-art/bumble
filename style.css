@@ -94,6 +94,6 @@ ul {
         display: block;
     }
     .profilePic {
-        background-size: cover;
+        width: 300px;
     }
 }
